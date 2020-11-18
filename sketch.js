@@ -53,7 +53,7 @@ if (gamestate===0) {
   fill("red")
   textSize(30)
   text("GAME OVER" ,250 ,300)
-  //sound.play()
+  sound.play()
 }
 }
 function doos() {
